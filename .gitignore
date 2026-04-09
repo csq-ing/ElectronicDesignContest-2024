@@ -1,0 +1,5 @@
+# IDE and compiler (exclude all these huge folders)
+ccstheia141/
+mspm0_sdk*/
+sysconfig*/
+
